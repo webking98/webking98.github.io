@@ -1098,7 +1098,7 @@ About us section style
     margin-right: 5px;
 }
 .about_left_item img{
-    box-shadow: 10px -10px 0px 10px #e0ecf0;
+    /*box-shadow: 10px -10px 0px 10px #e0ecf0;*/
 }
 
 .about_socail li a i{
